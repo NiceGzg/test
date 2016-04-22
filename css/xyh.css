@@ -1,0 +1,368 @@
+.swiper-container{
+	width: 6.4rem;
+	height: 10.08rem;
+}
+.page1{
+	background: url(../images/bj-1.jpg) 0 0 no-repeat;
+	background-size: 100% 100%;
+}
+.page2{
+	background: url(../images/bj-2.jpg) 0 0 no-repeat;
+	background-size: 100% 100%;
+}
+.page3{
+	background: url(../images/bj-3.jpg) 0 0 no-repeat;
+	background-size: 100% 100%;
+}
+.page4{
+	background: url(../images/bj-4.jpg) 0 0 no-repeat;
+	background-size: 100% 100%;
+}
+.page5{
+	background: url(../images/bj-5.jpg) 0 0 no-repeat;
+	background-size: 100% 100%;
+}
+.page6{
+	background: url(../images/bj-6.jpg) 0 0 no-repeat;
+	background-size: 100% 100%;
+}
+.page7{
+	background: url(../images/bj-7.jpg) 0 0 no-repeat;
+	background-size: 100% 100%;
+}
+.page8{
+	background: url(../images/bj-8.jpg) 0 0 no-repeat;
+	background-size: 100% 100%;
+}
+
+/* 第一页 */
+.swiper-slide .tu1{
+	width: 1.89rem;
+	height: 0.7rem;
+	position: absolute;
+	left: 33%;
+	top: 34%;
+	margin-top: -3rem;
+	margin-left: -1.6rem;
+}
+.swiper-slide .tu2{
+	width: 6.09rem;
+	height: 7.11rem;
+	position: absolute;
+	left: 28%;
+	top: 13%;
+	margin-left: -1.48rem;
+}
+.gxsq{
+	font-size: 0.5rem;
+	color: #fff;
+	position: absolute;
+	left: 15%;
+	top: 33%;
+}
+.nf{
+	font-size: 0.56rem;
+	color: #fff;
+	position: absolute;
+	left: 36%;
+	top: 42%;
+}
+.bkws{
+	font-size: 0.47rem;
+	color: #fff;
+	position: absolute;
+	left: 23%;
+	top: 51%;
+}
+.td{
+	font-size: 0.4rem;
+	color: #fff;
+	position: absolute;
+	left: 18%;
+	top: 75%;
+}
+
+/* 第二页 */
+.swiper-slide .tu3{
+	width: 5.48rem;
+	height: 9.40rem;
+	position: absolute;
+	left: 33%;
+	top: 34%;
+	margin-top: -3rem;
+	margin-left: -1.6rem;
+}
+.swiper-slide .tu31{
+	width: 5.83rem;
+	height: 6.02rem;
+	position: absolute;
+	left: 33%;
+	top: 34%;
+	margin-top: -3rem;
+	margin-left: -1.6rem;
+}
+.nf2{
+	font-size: 0.56rem;
+	color: #fff;
+	position: absolute;
+	left: 36%;
+	top: 29%;
+}
+.td2{
+	font-size: 0.3rem;
+	color: #fff;
+	position: absolute;
+	left: 22%;
+	top: 40%;
+	line-height: 0.7rem;
+}
+
+/* 第三页 */
+.swiper-slide .tu4{
+	width: 9.11rem;
+	height: 7.59rem;
+	position: absolute;
+	left: 0%;
+	top: 25%;
+	margin-top: -3rem;
+	margin-left: -1.6rem;
+}
+.nf3{
+	position: absolute;
+	left: 20%;
+	top: 22%;
+}
+.nf3 span{
+	font-size: 0.29rem;
+	color: #fff;
+}
+.nf3 p{
+	font-size: 0.16rem;
+	color: #fff;
+}
+
+/* 第四页 */
+.ydhlw{
+	font-size: 0.37rem;
+	color: #fff;
+	position: absolute;
+	left: 19%;
+	top: 13%;
+}
+.fq{
+	position: absolute;
+	left: 31%;
+	top: 23%;
+}
+.fq img{
+	width: 2rem;
+	height: 2rem;
+}
+.fq span{
+	font-size: 0.27rem;
+	color: #d92589;
+	display: block;
+	margin-left: 0.68rem;
+	margin-bottom: 0.1rem;
+}
+.fq p{
+	font-size: 0.27rem;
+	color: #fff;
+	margin-bottom: 0.05rem;
+}
+.td4{
+	font-size: 0.21rem;
+	color: #fff;
+	position: absolute;
+	left: 8%;
+	bottom:34%;
+	line-height: 0.3rem;
+}
+
+/* 第五页 */
+.yxxy{
+	position: absolute;
+	left: 7%;
+	top: 6%;
+	text-align: center;
+}
+.yxxy p:first-child{
+	font-size: 0.45rem;
+	color: #fff;
+	margin-bottom: 0.2rem;
+}
+.yxxy p:nth-child(2){
+	font-size: 0.24rem;
+	color: #fff;
+}
+.tps1{
+	position: absolute;
+	left: 0%;
+	top: 22%;
+}
+.tps2{
+	position: absolute;
+	left: 0%;
+	top: 40%;
+}
+.tps3{
+	position: absolute;
+	left: 0%;
+	top: 58%;
+}
+.tps4{
+	position: absolute;
+	left: 0%;
+	top: 76%;
+}
+.page5 img{
+	width: 1.6rem;
+	height: 1.6rem;
+	margin:0rem 0.2rem;
+}
+
+/* 第六页 */
+.rcap{
+	position: absolute;
+	left: 34%;
+	top: 9%;
+	color: #fff;
+}
+.rcap1{
+	width:5.68rem;
+	height: 1.18rem;
+	background: rgba(255,255,255,0.3);
+	position: absolute;
+	left: 4%;
+	top: 22%;
+	color: #fff;
+	border-radius: 0.1rem;
+	padding: 0.2rem 0.1rem;
+}
+.page6 img{
+	width:0.24rem;
+	height: 0.24rem;
+	float: left;
+	margin-top: 0.05rem;
+	margin-right: 0.2rem;
+}
+.page6 span{
+	color: #f61484;
+	font-size: 0.24rem;
+	float: left;
+}
+.page6 p{
+	float: left;
+	font-size: 0.24rem;
+	margin-left: 0.45rem;
+	margin-top: 0.1rem;
+}
+.rcap2{
+	width:5.68rem;
+	height: 1.18rem;
+	background: rgba(255,255,255,0.3);
+	position: absolute;
+	left: 4%;
+	top: 38.5%;
+	color: #fff;
+	border-radius: 0.1rem;
+	padding: 0.2rem 0.1rem;
+}
+.rcap3{
+	width:5.68rem;
+	height: 1.18rem;
+	background: rgba(255,255,255,0.3);
+	position: absolute;
+	left: 4%;
+	top: 55%;
+	color: #fff;
+	border-radius: 0.1rem;
+	padding: 0.2rem 0.1rem;
+}
+.rcap4{
+	width:5.68rem;
+	height: 1.18rem;
+	background: rgba(255,255,255,0.3);
+	position: absolute;
+	left: 4%;
+	top: 71.5%;
+	color: #fff;
+	border-radius: 0.1rem;
+	padding: 0.2rem 0.1rem;
+}
+
+/* 第七页 */
+.swiper-slide .tu7{
+	width: 6.40rem;
+	height: 6.00rem;
+	position: absolute;
+	left: 24%;
+	top: 52%;
+	margin-top: -3rem;
+	margin-left: -1.6rem;
+}
+.nf7{
+	position: absolute;
+	left: 27%;
+	top: 44%;
+}
+.swiper-slide .tu71{
+	width:2.03rem;
+	height: 3.85rem;
+	position: absolute;
+	left: 34%;
+	top: 38%;
+	margin-top: -3rem;
+	margin-left: -1.6rem;
+}
+.nf7 span{
+	font-size: 0.32rem;
+	color: #fff;
+}
+.nf7 p{
+	font-size: 0.23rem;
+	color: #fff;
+	margin-left: 0.4rem;
+	margin-top: 0.1rem;
+	line-height: 0.35rem;
+}
+
+/* 第八页 */
+.nf8{
+	position: absolute;
+	left: 13%;
+	top: 24%;
+}
+.nf8 span{
+	font-size: 0.25rem;
+	color: #fff;
+}
+.nf8 input{
+	width:3.95rem;
+	height: 0.56rem;
+	border-radius: 0.1rem;
+	border:none;
+	background: rgba(255,255,255,0.3);
+	margin-bottom: 0.1rem;
+	padding: 0 0.05rem;
+	font-size: 0.25rem;
+}
+.xm{
+	margin-right: 0.3rem;
+}
+.qq{
+	margin-right: 0.4rem;
+}
+.nf81{
+	position: absolute;
+	left: 19%;
+	top: 62%;
+	width:4.05rem;
+	height: 0.8rem;
+	cursor: pointer;
+	background: rgba(99,45,125,0.8);
+	color: #fff;
+	font-size: 0.36rem;
+	text-align: center;
+	line-height: 0.8rem;
+}
